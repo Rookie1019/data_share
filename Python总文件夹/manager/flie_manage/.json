@@ -1,0 +1,40 @@
+{
+  "all students": [
+    {
+      "name": "dasudh",
+      "age": "251",
+      "gender": "das",
+      "tel": "5118544",
+      "s_id": "stu0001"
+    },
+    {
+      "name": "jjjj",
+      "age": "25",
+      "gender": "nv",
+      "tel": "66+626",
+      "s_id": "stu0002"
+    },
+    {
+      "name": "zhouyu",
+      "age": "24",
+      "gender": "nan",
+      "tel": "18516415263",
+      "s_id": "stu0003"
+    },
+    {
+      "name": "zhouyu",
+      "age": "1852",
+      "gender": "ds",
+      "tel": "2151453",
+      "s_id": "stu0004"
+    },
+    {
+      "name": "lrw",
+      "age": "18",
+      "gender": "nv",
+      "tel": "15599999",
+      "s_id": "stu0005"
+    }
+  ],
+  "nums": 5
+}
